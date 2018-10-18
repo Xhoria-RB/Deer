@@ -39,7 +39,7 @@ Nightly builds are produced automatically for development branch so that people 
 
 macOS | Windows | Linux
 -----------------| ---| ---|
-<a href='https://github.com/abahmed/Deer/releases/download/develop/Deer-darwin.dmg'>Download</a> | <a href='https://github.com/abahmed/Deer/releases/download/develop/Deer-win32.exe'>Download</a> | <a href='https://github.com/abahmed/Deer/releases/download/develop/Deer-linux-amd64.deb'>Download</a> |
+<a href='https://github.com/abahmed/Deer/releases/download/develop/Deer-darwin.dmg'>Download</a> | <a href='https://github.com/abahmed/Deer/releases/download/develop/Deer-win.exe'>Download</a> | <a href='https://github.com/abahmed/Deer/releases/download/develop/Deer-linux-amd64.deb'>Download</a> |
 
 
 
